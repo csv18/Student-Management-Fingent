@@ -4,17 +4,17 @@ Step 1: Clone project using "git clone  https://github.com/csv18/Student-Managem
 
 Step 2: Point project to public folder.
 
-Step 3: create a database and update DB details in .env file.
+Step 3: Create .env file and database, then update DB details in .env file.
 
 Step 4: Install composer and clear cache.
 
-Step 5: php artisan migrate.
+Step 5: Run migration.
 
-Step 6: php artisan db:seed.
+Step 6: Run seeder.
 
-Step 7: php artisan serve.
+Step 7: Run "php artisan serve".
 
-Step 8: Login admin using email and password (Email: admin@gmail.com , Password: admin@123).
+Step 8: Login admin using email and password (Email: "admin@gmail.com" , Password: "admin@123").
 
 Step 9: Add Teacher, Terms, Students and Student marks.
 
