@@ -28,7 +28,7 @@ $('#user-login-form').validate({
         $('.error').html('');
         var submitButton=$(form).find('[type=submit]');
         var current_btn_text=submitButton.html();
-        button_loading_text = 'Saving...';
+        button_loading_text = 'Please wait...';
         // Create
         $.ajax({
             type: "POST",
