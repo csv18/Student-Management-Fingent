@@ -195,6 +195,7 @@ div#tbl-loader {
     color: #172b4c !important;
     font-size: 17px;
     font-weight: 500;
+    border: none;
   }
   .service-categories a:hover{
     text-decoration: none;
@@ -229,4 +230,7 @@ i.fa{
 }
 i.fa.fa-angle-right.pull-right{
     color: white !important;
+}
+header.card-header {
+    border: none;
 }

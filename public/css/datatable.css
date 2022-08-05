@@ -12,7 +12,8 @@
     border-radius: 100px !important;
 }
 div.dataTables_wrapper div.dataTables_length select {
-    width: 69px !important;
+    width: 94px !important;
+    height: 46px;
     display: inline-block;
 }
 table#js-news-url-table {
