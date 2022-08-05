@@ -56,8 +56,4 @@ class Teacher extends Model
          else
              return false;
     }
-    public function getAllCount(){
-
-        return  SELF::count();
-    }
 }

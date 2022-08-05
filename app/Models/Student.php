@@ -96,8 +96,4 @@ class Student extends Model
 
         return $list;
     }
-    public function getAllCount(){
-
-        return  SELF::count();
-    }
 }
